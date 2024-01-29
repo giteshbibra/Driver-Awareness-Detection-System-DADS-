@@ -23,5 +23,15 @@ Wide Application: Suitable for implementation in personal vehicles, commercial f
 Contributions to DADS are welcome! Whether it's feature enhancements, bug fixes, or improving documentation, we value your input. Please refer to our contribution guidelines for more information on making a submission.
 
 
-#Acknowledgements:
+### Acknowledgements:
 Special thanks to the Department of Data Science and Business Systems at SRM Institute of Science and Technology for their support and guidance throughout this project.
+
+<img width="871" alt="Screenshot 2024-01-29 at 1 11 30 PM" src="https://github.com/giteshbibra/Driver-Awareness-Detection-System-DADS-/assets/77569931/3512820c-45fa-498a-9f32-0d8182d70703">
+
+<img width="463" alt="Screenshot 2024-01-29 at 1 12 17 PM" src="https://github.com/giteshbibra/Driver-Awareness-Detection-System-DADS-/assets/77569931/5738baab-b526-4070-bb7c-41260451e7ee">
+
+<img width="465" alt="Screenshot 2024-01-29 at 1 12 24 PM" src="https://github.com/giteshbibra/Driver-Awareness-Detection-System-DADS-/assets/77569931/00080348-9487-4675-8e94-136d63f92ba3">
+
+
+
+
